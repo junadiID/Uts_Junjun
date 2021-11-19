@@ -1,0 +1,26 @@
+[18-May-2018 21:56:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$cfg_baseurl' (T_VARIABLE) in /home/whendy/public_html/account/auth.php on line 30
+[18-May-2018 21:56:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$cfg_baseurl' (T_VARIABLE) in /home/whendy/public_html/account/auth.php on line 30
+[18-May-2018 21:56:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$cfg_baseurl' (T_VARIABLE) in /home/whendy/public_html/account/auth.php on line 30
+[20-Aug-2018 18:02:03 UTC] PHP Warning:  require(mainconfig.php): failed to open stream: No such file or directory in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:02:03 UTC] PHP Warning:  require(mainconfig.php): failed to open stream: No such file or directory in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:02:03 UTC] PHP Fatal error:  require(): Failed opening required 'mainconfig.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:02:04 UTC] PHP Warning:  require(mainconfig.php): failed to open stream: No such file or directory in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:02:04 UTC] PHP Warning:  require(mainconfig.php): failed to open stream: No such file or directory in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:02:04 UTC] PHP Fatal error:  require(): Failed opening required 'mainconfig.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:02:07 UTC] PHP Warning:  require(mainconfig.php): failed to open stream: No such file or directory in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:02:07 UTC] PHP Warning:  require(mainconfig.php): failed to open stream: No such file or directory in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:02:07 UTC] PHP Fatal error:  require(): Failed opening required 'mainconfig.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:05:18 UTC] PHP Warning:  require(mainconfig.php): failed to open stream: No such file or directory in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:05:18 UTC] PHP Warning:  require(mainconfig.php): failed to open stream: No such file or directory in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:05:18 UTC] PHP Fatal error:  require(): Failed opening required 'mainconfig.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:05:18 UTC] PHP Warning:  require(mainconfig.php): failed to open stream: No such file or directory in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:05:18 UTC] PHP Warning:  require(mainconfig.php): failed to open stream: No such file or directory in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:05:18 UTC] PHP Fatal error:  require(): Failed opening required 'mainconfig.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:05:20 UTC] PHP Warning:  require(mainconfig.php): failed to open stream: No such file or directory in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:05:20 UTC] PHP Warning:  require(mainconfig.php): failed to open stream: No such file or directory in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:05:20 UTC] PHP Fatal error:  require(): Failed opening required 'mainconfig.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/brebespedia1807/public_html/account/admin.php on line 3
+[20-Aug-2018 18:08:41 UTC] PHP Warning:  require(mainconfig.php): failed to open stream: No such file or directory in /home/brebespedia1807/public_html/account/contact.php on line 3
+[20-Aug-2018 18:08:41 UTC] PHP Warning:  require(mainconfig.php): failed to open stream: No such file or directory in /home/brebespedia1807/public_html/account/contact.php on line 3
+[20-Aug-2018 18:08:41 UTC] PHP Fatal error:  require(): Failed opening required 'mainconfig.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/brebespedia1807/public_html/account/contact.php on line 3
+[14-Nov-2021 14:40:06 UTC] PHP Parse error:  syntax error, unexpected token "||" in /home/marketju/public_html/Market/account/register.php on line 25
+[14-Nov-2021 14:40:10 UTC] PHP Parse error:  syntax error, unexpected token "||" in /home/marketju/public_html/Market/account/register.php on line 25
